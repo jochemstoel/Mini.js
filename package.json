@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mini.js",
+        "scope": null,
+        "escapedName": "mini.js",
+        "name": "mini.js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Administrator\\Desktop\\NPM"
+    ]
+  ],
+  "_from": "mini.js@latest",
+  "_id": "mini.js@0.0.4-c",
+  "_inCache": true,
+  "_location": "/mini.js",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/mini.js-0.0.4-c.tgz_1477807455163_0.024114268133416772"
+  },
+  "_npmUser": {
+    "name": "jochemstoel",
+    "email": "jochemstoel@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "mini.js",
+    "scope": null,
+    "escapedName": "mini.js",
+    "name": "mini.js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/mini.js/-/mini.js-0.0.4-c.tgz",
+  "_shasum": "0d52052221fa37a1b9be566cda998f1f167069e3",
+  "_shrinkwrap": null,
+  "_spec": "mini.js",
+  "_where": "C:\\Users\\Administrator\\Desktop\\NPM",
+  "author": {
+    "name": "Jocem Stoel",
+    "url": "jochemstoel.github.io"
+  },
+  "dependencies": {
+    "escodegen": "~1.8.1",
+    "esprima": "3.1.0"
+  },
+  "description": "ES6 compatible minifier/compressor.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0d52052221fa37a1b9be566cda998f1f167069e3",
+    "tarball": "https://registry.npmjs.org/mini.js/-/mini.js-0.0.4-c.tgz"
+  },
+  "keywords": [
+    "minify",
+    "compress",
+    "minifier",
+    "es6"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jochemstoel",
+      "email": "jochemstoel@gmail.com"
+    }
+  ],
+  "name": "mini.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.4-c"
+}
